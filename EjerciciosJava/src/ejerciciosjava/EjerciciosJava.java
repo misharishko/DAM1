@@ -18,7 +18,7 @@ public class EjerciciosJava {
         String nombre = "Mykhaylo Rishko";
         int edad = 20;
         double altura = 1.80;
-        System.out.println("Me llamo " + nombre+", tengo "+edad+" años, y mido "+altura);
+        System.out.println("Me llamo " + nombre+", tengo "+edad+" años, y mido "+altura+" ");
     }
     
 }
